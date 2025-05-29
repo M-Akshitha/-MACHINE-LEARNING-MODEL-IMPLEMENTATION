@@ -26,6 +26,12 @@ Overall, this project illustrates the complete workflow from data cleaning and p
 
 output
 
+![{9E7F04CD-3914-456B-ABB0-8C4EB83715AF}](https://github.com/user-attachments/assets/5d54b82d-e061-466d-9f02-1e8d0d1f06af)
+
+![{9E7F04CD-3914-456B-ABB0-8C4EB83715AF}](https://github.com/user-attachments/assets/9e2990ea-e6ff-4cfb-ac53-643812d43d09)
+
+
+
 
 
 
