@@ -24,6 +24,11 @@ The results demonstrated that the Random Forest model is effective in predicting
 
 Overall, this project illustrates the complete workflow from data cleaning and preprocessing to model training, evaluation, and visualization. It highlights practical machine learning skills such as handling missing data, encoding categorical variables, splitting datasets, training ensemble models, and interpreting classification metrics. This approach lays a foundation for further enhancements, such as feature engineering, parameter tuning, or deploying the model for real-world loan risk management applications.
 
+output
+![{40D574FD-67EC-431A-B328-47C510F32A36}](https://github.com/user-attachments/assets/661bc791-3011-48e2-b15f-471e1eafcce9)
+
+
+
 
 
 
